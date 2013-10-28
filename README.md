@@ -1,3 +1,7 @@
+This is a generator that will create a test dataset for testing.
+
+
+
 # generator-dataset [![Build Status](https://secure.travis-ci.org/simonfan/generator-dataset.png?branch=master)](https://travis-ci.org/simonfan/generator-dataset)
 
 A generator for [Yeoman](http://yeoman.io).
